@@ -3,7 +3,7 @@ import { Sequelize } from "sequelize";
 // Konfigurasi database
 const sequelize = new Sequelize(
     // Nama Database
-    "simple_cashier",
+    "cashier_app",
     // User database
     "root",
     // Password database
